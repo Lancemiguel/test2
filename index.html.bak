@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Activity 1</title>
+		
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="css/reset.css">
+		
+
+	
+	
+	</head>
+
+	<body>
+
+
+		<div id="header">
+			<div id="header-title"><a href="#">Clean Retina</a></div>
+			<div id="fb-icon"><img src="images/fb-icon.png" alt="fb_icon" /></div>
+			<div id="tweet-icon"><img src="images/twitter-icon.png" alt="twitter_icon" /></div>
+			<div id="search-icon"><img src="images/search-icon.png" alt="search-icon" /></div>
+		
+		</div>
+			
+
+		<div id="nav">
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Page Layouts</a></li>
+				<li><a href="#">Typography</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">Support</a></li>
+				<li><a href="#">Upgrade to Pro</a></li>
+			</ul>
+		</div>
+
+	
+
+		
+		<div id="quotes">
+			<h2>“Free Responsive Retina Ready WordPress Theme”</h2>
+			<h4>Free WordPress Theme has never been so easy &amp; Beautiful</h4>
+		</div>
+
+		<div id="cover">
+			<h2>Flying in the sky</h2>
+			<p>Cheesecake danish dessert fruitcake. Gingerbread icing jelly chocolate carrot cake croissant. Chocolate bar chocolate pie. Chocolate bar apple pie candy marzipan lemon drops. Gummi bears jelly-o donut sweet ice cream…<a href="#">Continue Reading</a></p>
+		</div>
+
+		<div id="content">
+			<div class="panels">
+				
+				<h3>Elegant Design</h3>
+				<p>Cotton candy sesame snaps biscuit. Tiramisu dessert liquorice wafer ice cream candy canes pudding bonbon. Icing jelly beans biscuit dessert cheesecake. Pastry pie candy canes macaroon cheesecake. Soufflé jelly muffin</p>
+			</div>
+			
+			<div class="panels">
+				
+				<h3>Multiple Layout</h3>
+				<p>Cotton candy sesame snaps biscuit. Tiramisu dessert liquorice wafer ice cream candy canes pudding bonbon. Icing jelly beans biscuit dessert cheesecake. Pastry pie candy canes macaroon cheesecake. Soufflé jelly muffin</p>
+			</div>
+			
+			<div class="panels">
+				
+				<h3>Support</h3>
+				<p>Cotton candy sesame snaps biscuit. Tiramisu dessert liquorice wafer ice cream candy canes pudding bonbon. Icing jelly beans biscuit dessert cheesecake. Pastry pie candy canes macaroon cheesecake. Soufflé jelly muffin</p>
+			</div>
+		</div>
+
+		<div id="footer">
+			<div class="footer-c">
+				<ul class="footer-c-list">
+					<li><h3>Page Layouts</h3></li>
+					<li><a href="#">Left Sidebar</a></li>
+					<li><a href="#">Right Sidebar</a></li>
+					<li><a href="#">No Sidebar</a></li>
+					<li><a href="#">Full Width</a></li>
+					<li><a href="#">One Column</a></li>
+				</ul>
+			</div>
+			
+			<div class="footer-c">
+				<ul class="footer-c-list">
+					<li><h3>Recent Posts</h3></li>
+					<li><a href="#">Tree on Hill Edge</a></li><hr>
+					<li><a href="#">Glacier comes from the Lord, the maker of Heaven and Earth</a><hr />
+					<li><a href="#">White Queen Swan</a></li><hr>
+					<li><a href="#">Learn not to ride but fall and stand again and again</a></li><hr>
+					<li><a href="#">The Deep Blue Sea</a></li><hr>
+					<li><a href="#">Parcel from the God</a></li><hr>
+					<li><a href="#">Flying in the sky</a></li><hr>
+				</ul>
+			</div>
+			
+			<div class="footer-c">
+				<ul class="footer-c-list">
+					<li><h3>Clean Retina</h3></li>
+					<li>Clean Retina is a Simple, Clean and Beautiful Free Responsive Retina Ready WordPress Theme.</li>
+					<li>It automatically fits your tablet and mobile device. Along with the Clean and Pixel perfect design the theme also has easily customizable options like Featured post slider, color options, font style, custom css and more. The theme Provides you to choose among 9 home page layouts.</li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="copyright">
+			<span>Copyright &copy; <a href="#">Clean Retina</a> | Theme by: <a href="#">Theme Horse</a> | Powered by: <a href="#">WordPress</a></span>
+		</div>
+
+
+	</body>
+</html>
